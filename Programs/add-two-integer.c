@@ -2,7 +2,8 @@
 
 #include<stdio.h>
 
-int main(){
+int main()
+{
     int inp1, inp2;
 
     printf("Enter Integer [x]: ");
