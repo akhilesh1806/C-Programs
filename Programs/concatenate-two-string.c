@@ -24,7 +24,7 @@ int main(){
 
 
     // Get Second String
-    printf("\nEnter First String: ");
+    printf("\nEnter Second String: ");
     str2 = malloc(1);
     while(buffer = getchar()){
         if(buffer == '\n' || buffer == EOF){
