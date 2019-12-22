@@ -3,7 +3,7 @@ My collection of basic C Programs.
 
 ## Solved Problems
 
-* Add two integers. [ <a href="add-two-integer.c">code</a> ]
+* Add two integers. [ <a href="Programs/add-two-integer.c">code</a> ]
 * Area of an equilateral triangle. [ <a href="area-of-an-equilateral-triangle.c">code</a> ]
 * Area of rectangle from length and breadth. [ <a href="area-of-rectangle-from-length-and-breadth.c">code</a> ]
 * Area of triangle from base and height. [ <a href="area-of-triangle-from-base-and-height.c">code</a> ]
